@@ -1,0 +1,18 @@
+{
+  "name": "ping-coming-soon",
+  "description": "![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwindcss build src/style.css -o dist/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.5",
+    "tailwindcss": "^2.0.3"
+  }
+}
